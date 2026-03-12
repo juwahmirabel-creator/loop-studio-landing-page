@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://github.com/juwahmirabel-creator/loop-studio-landing-page.git)
+- Solution URL: (https://github.com/juwahmirabel-creator/loop-studio-landing-page.git)
+- Live Site URL: (https://mirabelloopstudiochallenge.netlify.app/)
 
 
 ### Built with
